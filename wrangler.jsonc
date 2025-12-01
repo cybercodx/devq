@@ -33,8 +33,9 @@
 	 */
 	"vpc_services": [
 		{
-			"binding": "VPC_SERVICE",
-			"service_id": "<YOUR_SERVICE_ID>"
+			"binding": "VPC",
+			"service_id": "019adbb5-4bbb-7fe3-8ba8-5afbb0188873",
+            "remote": true
 		}
 	],
 
@@ -45,7 +46,7 @@
 	"kv_namespaces": [
 		{
 			"binding": "KV",
-			"id": "<BINDING_ID>"
+			"id": "ed46daba33024861b7af5e8603744adc"
 		}
 	]
 
